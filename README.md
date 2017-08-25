@@ -34,7 +34,7 @@ It's purpose is to provide a modular way of specifying data pipelines consisting
 
 ## Detailed architecture  
 
-![1](https://github.com/dorianb96/GSoC-Application-Architecture-Explained/blob/master/App_architecture.jpg?raw=true)
+![1](https://github.com/dorianb96/gsoc-architecture-explained/blob/master/App_architecture.jpg?raw=true)
 
 
 ## Deployment
