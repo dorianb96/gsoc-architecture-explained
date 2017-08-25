@@ -5,7 +5,11 @@
 [remote-server-2.0.jar](https://www.dropbox.com/s/ojvkbnfqf1lynmh/remote-server-2.0.jar?dl=0)  
 [spark_eeg-1.2-jar-with-dependencies.jar](https://www.dropbox.com/s/tu2o2coxa6yfm4q/spark_eeg-1.2-jar-with-dependencies.jar?dl=0)
 
+You can download all three JAR files with this script: 
 
+      wget --no-check-certificate https://www.dropbox.com/s/p7tq3hs7j870p8g/EEG_Analysis.jar?dl=0 ; 
+      wget --no-check-certificate https://www.dropbox.com/s/ojvkbnfqf1lynmh/remote-server-2.0.jar?dl=0 ; 
+      wget --no-check-certificate https://www.dropbox.com/s/tu2o2coxa6yfm4q/spark_eeg-1.2-jar-with-dependencies.jar?dl=0
 
 ## Architecture
 
